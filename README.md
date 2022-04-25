@@ -1,4 +1,4 @@
-## Temos visita! Sou Jardel Praxedes, bem vindo! 👻
+## Temos visita! Sou Jardel Praxedes, bem vindo! 
 <div align="center">
   <a href="https://github.com/JardelPraxedes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelPraxedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
